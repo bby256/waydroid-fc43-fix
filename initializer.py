@@ -479,7 +479,7 @@ def remote_init_client(args):
             except Exception as e:
                 self.draw(f"{e}\n")
 
-    GLib.set_prgname("yarraktaşşak31")
+    GLib.set_prgname("Waydroid")
     win = WaydroidInitWindow()
 
     win.show_all()
@@ -487,3 +487,4 @@ def remote_init_client(args):
     win.doneBtn.hide()
 
     Gtk.main()
+# ateşin duvar 2 si
